@@ -1,6 +1,9 @@
-# Vranic_2016_New_J._Phys._18_073035
-Quantum radiation reaction in head-on laser-electron beam interaction
+# Quantum radiation reaction in head-on laser-electron beam interaction
 
-https://iopscience.iop.org/article/10.1088/1367-2630/18/7/073035
+Original authors of paper: Marija Vranic, Thomas Grismayer, Ricardo A Fonseca and Luis O Silva
 
-Authors of paper:  Marija Vranic, Thomas Grismayer, Ricardo A Fonseca and Luis O Silva
+Link to paper: https://iopscience.iop.org/article/10.1088/1367-2630/18/7/073035
+
+Notebook by: Óscar Amaro
+
+Abstract: _In this paper, we investigate the evolution of the energy spread and the divergence of electron beams while they interact with different laser pulses at intensities where quantum effects and radiation reaction are of relevance. The interaction is modelled with a quantum electrodynamic (QED)-PIC code and the results are compared with those obtained using a standard PIC code with a classical radiation reaction module. In addition, an analytical model is presented that estimates the value of the final electron energy spread after the interaction with the laser has finished. While classical radiation reaction is a continuous process, in QED, radiation emission is stochastic. The two pictures reconcile in the limit when the emitted photons energy is small compared to the energy of the emitting electrons. The energy spread of the electron distribution function always tends to decrease with classical radiation reaction, whereas the stochastic QED emission can also enlarge it. These two tendencies compete in the QED-dominated regime. Our analysis, supported by the QED module, reveals an upper limit to the maximal attainable energy spread due to stochasticity that depends on laser intensity and the electron beam average energy. Beyond this limit, the energy spread decreases. These findings are verified for different laser pulse lengths ranging from short ∼30 fs pulses presently available to the long ∼150 fs pulses expected in the near-future laser facilities, and compared with a theoretical model. Our results also show that near future experiments will be able to probe this transition and to demonstrate the competition between enhanced QED induced energy spread and energy spectrum narrowing from classical radiation reaction._
